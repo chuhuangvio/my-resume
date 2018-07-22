@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
+* 大家好，我是木山
+* 七月了，好多公司都在招聘
 * 你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
@@ -128,38 +128,36 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `木山
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+渣渣Python后端工程师
+
 
 技能
 ----
 
-* 前端开发
+* 后端开发
 * Rails 开发
 * Node.js 开发
-* 前端授课
+* Python Web后端
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [木山部落](http://mushan.com)
+2. tc通讯部
+3. 巴巴**部门
+4. 大空头项目组
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/mushan)
+* [我的文章](https://www.zhihu.com/people)
 
 > 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
-`
       }
     },
     created() {
